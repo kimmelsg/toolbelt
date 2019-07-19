@@ -19,6 +19,9 @@
     "functions"
   ],
   "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "build": "rollup -c && tsc",
     "dev": "rollup -c -w",
