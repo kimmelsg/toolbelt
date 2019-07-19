@@ -2,6 +2,14 @@
 
 > Useful utility functions for Kimmel projects
 
+## Installation
+
+In your terminal:
+
+```shell
+$ yarn add @kimmel/toolbelt
+```
+
 ## Functions
 
 - [attempt](#attempt)
