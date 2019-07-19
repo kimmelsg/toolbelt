@@ -2,6 +2,8 @@
 
 > Useful utility functions for Kimmel projects
 
+[![codecov](https://codecov.io/gh/kimmelsg/toolbelt/branch/master/graph/badge.svg)](https://codecov.io/gh/kimmelsg/toolbelt)
+
 ## Installation
 
 In your terminal:
